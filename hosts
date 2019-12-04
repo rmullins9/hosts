@@ -4086,7 +4086,7 @@ ff02::3 ip6-allhosts
 
 #0.0.0.0 s0.2mdn.net		# This may interfere with some streaming 
 				# video on sites such as cbc.ca
-#0.0.0.0 ad.doubleclick.net   # This may interefere with www.sears.com
+0.0.0.0 ad.doubleclick.net   # This may interefere with www.sears.com
 				# and potentially other sites. 
 0.0.0.0 media.fastclick.net  # Likewise, this may interfere with some
 0.0.0.0 cdn.fastclick.net  # sites.
